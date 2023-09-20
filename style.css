@@ -1,14 +1,18 @@
 #top{
+    justify-content: space-around;
     display: flex;
-    flex-direction: row;
     border: 5px solid rgb(226, 43, 43);
-
-
+    align-items: center;
 }
-.rubrik1{
-    
+
+.rubrik1{    
+
     display: flex;
     border: 2px solid black;
     background-color: aqua;
+}
+
+h1{
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
