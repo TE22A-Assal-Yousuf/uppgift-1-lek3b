@@ -5,11 +5,34 @@
     align-items: center;
 }
 
-.rubrik1{    
-
+#middle{
+    justify-content: space-around;
     display: flex;
+    border: 5px solid orange;
+    padding: 100px;
+}
+
+
+.rubrik1{    
+    
     border: 2px solid black;
+    padding-left: 40px;
+    padding-right: 40px;
     background-color: aqua;
+}
+
+.rubrik2{
+    border: 2px solid black;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(238, 255, 0);
+}
+
+.rubrik3{
+    border: 2px solid black;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(43, 255, 0);
 }
 
 h1{
